@@ -1,0 +1,18 @@
+{
+    "name": "tadma/flashcards",
+    "description": "flashcards",
+    "type": "project",
+    "authors": [
+        {
+            "name": "tadma",
+            "email": "tad.marsik@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": ["classes/"]
+    },
+    "require": {
+      "ext-pdo": "*"
+    }
+}
